@@ -47,19 +47,19 @@ A inspiração para a realização deste trabalho veio inicialmente do brinquedo
   <img src="imagens/jumpWiresMtoF.png" width="300">
 </div>
 
-### 5. 6 x Sensor Infra Vermelho IR Emissor + Receptor
+### 5. 7 x Sensor Infra Vermelho IR Emissor + Receptor
 
 <div align="center">
   <img src="imagens/IR.jpg" width="300">
 </div>
 
-### 6. 6 x Resistor 10k ohm
+### 6. 7 x Resistor 10k ohm
 
 <div align="center">
   <img src="imagens/resistor10k.png" width="250">
 </div>
 
-### 7. 6 x Resistor 300 ohm
+### 7. 7 x Resistor 300 ohm
 
 <div align="center">
   <img src="imagens/resistor300.jpg" width="250">
